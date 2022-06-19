@@ -1,9 +1,9 @@
 # Console.log('Hello World, Im Kevin!👋')
 
-- 💻 Estoy estudiando Programación Web Full Stack en DIGITAL HOUSE
-- ⌨️ Apriendiendo JavaScript, HTML y  CSS
-- ✉️ Contactame por mi mail: kevinrodriguez7411@gmail.com
-- 👨 Pronombres: he/him
+- 💻 Im studying Full Stack Web Programming at DIGITAL HOUSE
+- ⌨️ Learning JavaScript, HTML and CSS
+- ✉️ Contact me by email: kevinrodriguez7411@gmail.com
+- 👨 Pronouns: he/him
 
 <div>
   <a href="https://github.com/JustKevinn">
