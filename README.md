@@ -1,7 +1,8 @@
 # Console.log('Hello World, Im Kevin!👋')
 
+- 🙋 I am Kevin Rodriguez and im 19 years old, from Argentina 🇦 🇷
 - 💻 Im studying Full Stack Web Programming at DIGITAL HOUSE
-- ⌨️ Learning JavaScript, HTML and CSS
+- ⌨️ Learning JavaScript, HTML, CSS and RUBY
 - ✉️ Contact me by email: kevinrodriguez7411@gmail.com
 - 👨 Pronouns: he/him
 
