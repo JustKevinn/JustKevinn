@@ -4,7 +4,6 @@
 - 💻 Im studying Full Stack Web Programming at DIGITAL HOUSE
 - ⌨️ Learning JavaScript, HTML, CSS and RUBY
 - ✉️ Contact me by email: kevinrodriguez7411@gmail.com
-- 👨 Pronouns: he/him
 
 <div>
   <a href="https://github.com/JustKevinn">
